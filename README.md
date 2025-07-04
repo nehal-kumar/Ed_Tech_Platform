@@ -1,4 +1,4 @@
-# StudyNotion Online Education Platform (MERN App) 
+# StudyNotion Online Education Platform (MERN App) [https://ed-tech-platform-kappa.vercel.app/]
 
 ![Main Page](images/mainpage.png)
 
